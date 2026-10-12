@@ -134,4 +134,4 @@ Akses aplikasi melalui browser di: `http://127.0.0.1:8000`
 
 Proyek ini dikembangkan sebagai pemenuhan proyek sistem berbasis web oleh:
 * **Faqih Muhammad Faiz** - *Back End & Database Architecture*
-* Serta seluruh anggota **Kelompok 3**.
+
